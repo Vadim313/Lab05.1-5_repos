@@ -13,7 +13,7 @@ double f(int const n)
 
 }
 
-/*double binary(int n, int a)
+double binary(int n, int a)
 {
 	if (n != 0)
 	{
@@ -30,8 +30,8 @@ double f(int const n)
 		return a;
 	
 
-*/
-//}
+
+}
 int main()
 {
 	int n;
